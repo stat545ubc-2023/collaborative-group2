@@ -3,16 +3,23 @@ TEAMWORK CONTRACT
 #Division of labour 
 
 Jessica: a) Make the repository on GitHub and add teammates to the repository as collaborators.
+
          b) Fix errors on the troubleshoot page and make a pull request for it.
+         
          c) Make an introduction on the issues page and respond to others' introduction issues.
+         
          d) Be responsible for reviewing and merging the pull request of Jasleen.
 
 Jasleen: a) Fill out the README file and make a pull request for it.
+
          b) Make an introduction on the issues page and respond to others' introduction issues.
+         
          c) Be responsible for reviewing and merging the pull request of Steven.
          
 Yan: a) Write the teamwork contract and make a pull request for it.
+
      b) Make an introduction on the issues page and respond to others' introduction issues.
+     
      c) Be responsible for reviewing and merging the pull request of Jessica.
 
 Collaborative Work: a) Markdown Formatting.
