@@ -12,7 +12,7 @@
 **Jasleen**: 
 + Fill out the README file and make a pull request for it.
 + Make an introduction on the issues page and respond to others' introduction issues.
-+ Be responsible for reviewing and merging the pull request of Steven.
++ Be responsible for reviewing and merging the pull request of Yan.
          
 **Yan**: 
 + Write the teamwork contract and make a pull request for it.
@@ -24,8 +24,8 @@
 + Submitting this Milestone.
 
 ## Timing 
-+ We will finish all the individual work by September 19, 2023 (11:59 PST).
-+ We will finish the markdown formatting and submit the assignment by September 20, 2023 (18:00 PST).
++ We will finish all the individual work by September 19, 2023 (11:59 PT).
++ We will finish the markdown formatting and submit the assignment by September 20, 2023 (18:00 PT).
 
 ## Communication
 + GitHub Issues: We will use GitHub Issues to track tasks, report bugs, and discuss feature requests. Each team member should check GitHub Issues daily and respond promptly to comments or assignments.
