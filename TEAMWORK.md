@@ -29,7 +29,7 @@
 
 ## Timing  
 
-+ We will finish all the individual work by September 19, 2023 (11:59 PT).
++ We will finish all the individual work by September 20, 2023 (11:59 PT).
 + We will finish the markdown formatting and submit the assignment by September 21, 2023 (18:00 PT).
 
 ## Communication  
