@@ -7,12 +7,14 @@
 
 # The list of files in the collaborative project repository:
   (We will keep updating this section)
+  
 * Readme file 
 * Teamwork file
 * Troubleshooting-1
 
 # Following is the task list we followed in order to progress through our work
 (You can use this as a refernce)
+
 - [x] Creating the repository
 - [x] Writing every members introduction
 - [x] Working on the readme file
