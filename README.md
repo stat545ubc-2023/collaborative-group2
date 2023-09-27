@@ -30,8 +30,8 @@
 
 Name | Github link
 ---- | -----------
-Jessica | [chalissery14](https://github.com/jchalissery14)
-Yan | [stevenduan9](https://github.com/StevenDuan9#:~:text=Stars-,StevenDuan9)
+Jessica Chalissery | [jchalissery14](https://github.com/jchalissery14)
+Yan Duan | [stevenduan9](https://github.com/StevenDuan9#:~:text=Stars-,StevenDuan9)
 Jasleen Kaur | [Jasleen-Kaur-M](https://github.com/Jasleen-Kaur-M#:~:text=Jasleen%2DKaur%2DM-,Edit%20profile,-0%20followers%20%C2%B)
 
 # HAPPY CODING :+1:
