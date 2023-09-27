@@ -63,7 +63,7 @@ Now that we've had a quick look at the dataset, it would be interesting to explo
 ```{r}
 ### ERROR HERE ###
 filter(movieLens, genres == "Drama")
-filter(movieLens, genres != "Drama")
+filter(movieLens, !genres == "Drama")
 filter(movieLens, year > 2000)
 filter(movieLens, year == 1999 | year == 2000)
 filter(movieLens, rating > 4.5, year < 1995)
@@ -78,7 +78,7 @@ While filtering for *all movies that do not belong to the genre drama* above, I 
 ```{r}
 ### ERROR HERE ###
 movieLens %>%
-  filter(genres != "Drama") %>%
+  filter(!genres == "Drama") %>%
   select(title, genres, everything())
 
 # used everything function to call all columns other than title and genres instead of listing them one by one
@@ -111,7 +111,8 @@ Each entry of the movieLens table corresponds to a movie rating by a user. There
 
 ```{r}
 movieLens %>%
-  count(title)
+  group_by(title) %>%
+  tally()
 ```
 
 Without using `group_by()`, I want to find out how many movie reviews there have been for each year.
@@ -173,7 +174,7 @@ We can find the minimum height and mass within each species, ignoring the missin
 ### ERROR HERE ###
 starWars %>%
   group_by(species) %>%
-  summarise(across(c(height, mass), ~min(., na.rm=TRUE))) 
+  summarise(across(c("height", "mass"), function(x) min(x, na.rm = TRUE)))
 ```
 
 Note that here R has taken the convention that the minimum value of a set of `NA`s is `Inf`.
