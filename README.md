@@ -12,6 +12,8 @@
 * Teamwork file
 * Troubleshooting-1.Rmd
 * Troubleshooting-1.md
+* Troubleshooting-2.Rmd
+* Troubleshooting-2.md
 
 ## Following is the task list we followed in order to progress through our work
 (You can use this as a reference)
