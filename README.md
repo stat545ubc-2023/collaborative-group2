@@ -8,12 +8,12 @@
 ## The list of files in the collaborative project repository:
   (We will keep updating this section)
   
-* Readme file 
-* Teamwork file
-* Troubleshooting-1.Rmd
-* Troubleshooting-1.md
-* Troubleshooting-2.Rmd
-* Troubleshooting-2.md
+* README.md 
+* TEAMWORK.md
+* troubleshooting-1.Rmd
+* troubleshooting-1.md
+* troubleshooting-2.Rmd
+* troubleshooting-2.md
 
 ## Following is the task list we followed in order to progress through our work
 (You can use this as a reference)
